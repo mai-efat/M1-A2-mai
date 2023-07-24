@@ -42,7 +42,7 @@ if [ -d ${DIR} ]
 then
 
     # read all files inside this directory.
-    for file in `dir -a ${DIR}`;
+    for file in ${DIR}/*;
     do
         # check if its file.
         if [ ! -f ${file} ];
