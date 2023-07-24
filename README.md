@@ -47,4 +47,4 @@ Downloads/
 
 
 ## How to upload task on github.
-- 
+- Please refer to explanation video that has been sent through email.
