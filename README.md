@@ -21,7 +21,6 @@ The goal of this project is to create a Bash script that organizes files in a sp
 file1.txt
 file2.jpg
 file3.pdf
-file4.sh
 file5_without_extension
 file6.unknown
 ```
@@ -36,8 +35,6 @@ Downloads/
 |   |-- file2.jpg
 |-- pdf/
 |   |-- file3.pdf
-|-- sh/
-|   |-- file4.sh
 |-- misc/
 |   |-- file5_without_extension
 |   |-- file6.unknown
